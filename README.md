@@ -35,7 +35,7 @@ onde estou aprimorando habilidades em diversas ferramentas e metodologias, inclu
 
 ---
 
-📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/raphael-victor-pereira/) ou pelo e-mail: raphael.vcp@gmail.com
+📫 Você pode entrar em contato comigo pelo [LinkedIn]((https://www.linkedin.com/in/raphael-vpereira/)) ou pelo e-mail: Raphael.campos25@outlook.com
 
 🌟 Obrigado pela visita!
 

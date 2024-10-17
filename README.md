@@ -2,8 +2,7 @@
 
 ## Sobre mim
 
-🎓 Tenho 26 anos e estou cursando **Ciência de Dados**. Além disso, estou realizando um curso de **Data Analytics** na **Xperiun**,
-onde estou aprimorando habilidades em diversas ferramentas e metodologias, incluindo:
+🎓 Tenho 26 anos e estou cursando **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**. Além disso, estou realizando um curso de **Data Analytics** na **Xperiun**, onde estou aprimorando habilidades em diversas ferramentas e metodologias, incluindo:
 
 - **ETL (Extração, Transformação e Carregamento)**
 - **Business Analytics**
@@ -35,7 +34,7 @@ onde estou aprimorando habilidades em diversas ferramentas e metodologias, inclu
 
 ---
 
-📫 Você pode entrar em contato comigo pelo [LinkedIn]((https://www.linkedin.com/in/raphael-vpereira/)) ou pelo e-mail: Raphael.campos25@outlook.com
+📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/raphael-vpereira/) ou conferir meu portfólio em [Xperiun](https://app.xperiun.com/in/raphael-vpereira).
 
 🌟 Obrigado pela visita!
 

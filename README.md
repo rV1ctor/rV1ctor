@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🎓 Tenho 26 anos e estou cursando **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**. Além disso, estou realizando um curso de **Data Analytics** na **Xperiun**, onde estou aprimorando habilidades em diversas ferramentas e metodologias, incluindo:
+🎓 Tenho 26 anos e estou cursando **Análise e Desenvolvimento de Sistemas** e ** Imersão-Python Data Science - FIAP **. Além disso, estou realizando um curso de **Data Analytics** na **Xperiun**, onde estou aprimorando habilidades em diversas ferramentas e metodologias, incluindo:
 
 - **ETL (Extração, Transformação e Carregamento)**
 - **Business Analytics**
@@ -22,7 +22,7 @@
 
 ## Experiência Profissional
 
-🔍 Atualmente, estou em busca de oportunidades nas áreas de **Análise de Risco** ou **Análise de Dados**. Tenho sólida experiência na identificação de padrões suspeitos e detecção de atividades fraudulentas, com habilidades avançadas em **verificações KYC** e **auditoria de contratos**, garantindo a conformidade regulatória e a integridade das transações.
+🔍 Atualmente, estou em busca de oportunidades nas áreas de **Análise de Dados** ou **Análise de Risco**. Tenho sólida experiência na identificação de padrões suspeitos e detecção de atividades fraudulentas, com habilidades avançadas em **verificações KYC** e **auditoria de contratos**, garantindo a conformidade regulatória e a integridade das transações.
 
 📊 Além disso, sou especialista em **Análise de Dados** utilizando ferramentas como **Excel** e **Power BI** para coletar, integrar e extrair informações essenciais, focado na **análise antifraude** e na identificação de **potenciais riscos** para clientes e empresas.
 
